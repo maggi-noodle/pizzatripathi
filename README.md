@@ -1,5 +1,6 @@
 # pizzatripathi: the design document
 <img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/26982619/27807441-abcb94e2-5ff5-11e7-9b58-9e336fb61e46.jpg"> 
+
 ![screen shot 2017-07-06 at 1 58 33 am](https://user-images.githubusercontent.com/26982619/27903591-b62c2564-61ee-11e7-9ab4-d18cd5eadea3.png)
 ## concept 
 pizzatripathi.party will be a site to investigate descent to hell narratives and the googledoc collectivefforts of pooja tripathi, annakai geshlider, and maggi zheng
