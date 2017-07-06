@@ -9,7 +9,7 @@ site is to be used by:
 * the internet's everyone who is curious about alter ego formations of independent, hydra-headed, food-oriented personas
 * navigators of non-linear narrative (the personal sprinkled with theory)
 ## sitemap (table of content) 
-
+![alt text](https://user-images.githubusercontent.com/26982619/27902222-c7e92086-61e9-11e7-94c4-96ef8f26740c.png)
 ## wireframes
 
 ## design mockups 
