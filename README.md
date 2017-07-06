@@ -1,4 +1,4 @@
-# pizzatripathi: design document
+# pizzatripathi.party: design document
 <img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/26982619/27807441-abcb94e2-5ff5-11e7-9b58-9e336fb61e46.jpg"> 
 
 ## concept 
