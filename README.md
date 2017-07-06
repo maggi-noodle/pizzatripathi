@@ -6,7 +6,7 @@ pizzatripathi.party will be a site to investigate descent to hell narratives and
 ## user stories
 site is to be used by:
 * friends, loved ones 
-* the internet's "everyone" curious about alter ego formations of independent, hydra-headed, food-oriented personas
+* the internet's "everyone" who is curious about alter ego formations of independent, hydra-headed, food-oriented personas
 * navigators of non-linear narrative (the personal sprinkled with theory)
 ## sitemap (table of content) 
 ![alt text](https://user-images.githubusercontent.com/26982619/27902222-c7e92086-61e9-11e7-94c4-96ef8f26740c.png)
@@ -18,4 +18,4 @@ x x x x x x
 ![sitemap 003](https://user-images.githubusercontent.com/26982619/27902615-3dbb4fb8-61eb-11e7-9afb-09ba5f315ed7.png)
 ![sitemap 002](https://user-images.githubusercontent.com/26982619/27902617-3fabbea2-61eb-11e7-88e6-dcac4a87f532.png)
 ![sitemap 004](https://user-images.githubusercontent.com/26982619/27902608-38391c96-61eb-11e7-9b44-491eda7b37be.png)
-![screen shot 2017-07-06 at 1 58 51 am](https://user-images.githubusercontent.com/26982619/27903593-b97959f8-61ee-11e7-8a8f-c509e2d33ed1.png)
+
